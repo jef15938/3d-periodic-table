@@ -1,2 +1,2 @@
-# css3d-periodic-table
-基于three.js元素周期表3D 的demo，创建各个元素之间选择性的连线
+# 3d-periodic-table
+基於three.js 週期表 3D 的 demo，
